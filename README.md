@@ -1,4 +1,5 @@
-# Blockfuse-test (question 1)
+# Blockfuse-test Section A (question 1)
+
 Fuzz data:
 [76, 57, 19, 87, 62, 23, 87] 
 [57, 10, 2, 40, 40, 35, 36, 59, 43, 7, 98, 90, 33, 11] 
